@@ -11,8 +11,6 @@
     "dependencies": {
         "@babel/core": "7.1.2",
         "@babel/preset-env": "7.1.0",
-        "babel-plugin-transform-builtin-classes": "0.6.1",
-        "babel-preset-env": "1.7.0",
         "hyperhtml-element": "3.1.0",
         "koa": "2.5.3",
         "koa-compress": "3.0.0",
